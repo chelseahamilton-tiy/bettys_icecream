@@ -50,3 +50,30 @@ td {
 .nav {
 
 }
+
+span {
+  color: white;
+  font-size: 2rem;
+  font-family: cursive;
+}
+
+.card-container {
+  perspective: 700;
+}
+
+.footer {
+  text-align: center;
+  background-color: pink;
+  margin: 3rem 0rem;
+  padding; 0rem;
+  width: 100%;
+}
+
+#logo {
+  float:right;
+  width: 250px;
+}
+
+.clearfix {
+  clear: both;
+}
