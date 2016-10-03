@@ -1,8 +1,39 @@
-h1 {
-text-align: center;
+body {
+ margin:0px;
+ padding: 0px;
+ background-color: gray;
+}
+
+.headercontent {
 background-color: pink;
-font-family: sans-serif;
-margin: 0%;
-padding:2%;
+font-family: cursive;
 width: 100%;
+height: auto;
+margin: 0;
+text-align: center;
+}
+
+.card {
+ margin: 20px;
+ background-color: pink;
+ width: 200px;
+ height: 200px;
+ transition: all 0.6s ease;
+ transform-style: preserve-3d;
+}
+
+.card:hover {
+ transform: rotateY(180deg);
+}
+
+td {
+  text-align: center;
+}
+
+tr {
+  color: black;
+}
+
+a {
+    color: pink;
 }
