@@ -37,3 +37,16 @@ tr {
 a {
     color: pink;
 }
+
+th {
+  font-size: 2rem;
+  margin: 0;
+}
+
+td {
+  color: pink;
+}
+
+.nav {
+
+}
